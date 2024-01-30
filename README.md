@@ -1,3 +1,3 @@
-#CSV File Upload to Database In MERN
+#CSV File Upload to MongoDB using ReactJS and NodeJS
 
-The repository contains the test csv files also.
+The repository contains the test CSV files also.
